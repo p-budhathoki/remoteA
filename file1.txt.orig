@@ -1,0 +1,7 @@
+First line
+<<<<<<< HEAD
+Second line devA
+=======
+
+Third line devB
+>>>>>>> 1d6d979 (Commit done in remoteA by devB)
